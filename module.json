@@ -1,0 +1,11 @@
+{
+    "id": "index_hourly",
+    "name": "Run 'rebuild search index' every hour",
+    "description": "",
+    "keywords": [
+    ],
+    "version": "0.1",
+    "humhub": {
+        "minVersion": "1.2"
+    }
+}
